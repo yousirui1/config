@@ -59,7 +59,8 @@ set autoindent				"设置自动缩进
 set noai nosi				"粘贴缩进
 set hlsearch				"高亮搜索
 set nu						"显示行号
+set paste         "插入模式 复制格式不会错误
 set tags=/home/ysr/project/rtsp/rtspser_v1.0.0.0/tags
 
 set backspace=indent,eol,start
-set paste
+
