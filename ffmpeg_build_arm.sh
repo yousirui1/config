@@ -14,7 +14,7 @@
   --enable-muxer=h264 \
   --enable-parser=h264 \
   --enable-demuxer=h264 \
-  --enable-protocal=file \
+  --enable-protocol=file \
   --cross-prefix = arm_linux-gnueabihf- \
   --arch=arm      \
   --target-os = linux 
